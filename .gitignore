@@ -1,2 +1,4 @@
 links.dat
 node_modules/
+cache/*
+!cache/.gitkeep
