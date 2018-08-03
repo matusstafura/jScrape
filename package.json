@@ -1,0 +1,26 @@
+{
+  "name": "jscraper",
+  "version": "1.0.0",
+  "description": "simple bulk html downloader",
+  "main": "savesource.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svartsvan/jScrape.git"
+  },
+  "keywords": [
+    "scrape",
+    "phantomjs",
+    "html"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svartsvan/jScrape/issues"
+  },
+  "homepage": "https://github.com/svartsvan/jScrape#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
